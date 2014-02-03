@@ -10,6 +10,8 @@ Make a simple web-client like curl or wget
 Contributors / Licensing
 ========================
 
+Discussed assignment with Andrew Charles and Alex Wong
+
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 But the server.py example is derived from the python documentation
